@@ -1,9 +1,9 @@
-# RegExp prototype
+# Underscore Add-ons
 
-Augments the built-in RegExp type with a a helpful 'escape' function
+## Usage
 
-Usage
--------------------
+```
+meteor add 3stack:underscore-addons
+```
 
-`RegExp.escape(str)`
-Returns a string suitable for calling `new RegExp()` with.
+Then, read the source.
